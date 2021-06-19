@@ -1,0 +1,4 @@
+[13-Jun-2021 02:15:31 UTC] PHP Fatal error:  Access level to App\Models\PresenceDetail::$incrementing must be public (as in class Illuminate\Database\Eloquent\Model) in /home/pess7519/public_html/api/app/Models/PresenceDetail.php on line 9
+[13-Jun-2021 02:15:55 UTC] PHP Fatal error:  Access level to App\Models\Presence::$incrementing must be public (as in class Illuminate\Database\Eloquent\Model) in /home/pess7519/public_html/api/app/Models/Presence.php on line 9
+[13-Jun-2021 02:16:30 UTC] PHP Fatal error:  Access level to App\Models\PresenceDetail::$incrementing must be public (as in class Illuminate\Database\Eloquent\Model) in /home/pess7519/public_html/api/app/Models/PresenceDetail.php on line 9
+[13-Jun-2021 02:17:57 UTC] PHP Fatal error:  Access level to App\Models\PresenceDetail::$incrementing must be public (as in class Illuminate\Database\Eloquent\Model) in /home/pess7519/public_html/api/app/Models/PresenceDetail.php on line 9
